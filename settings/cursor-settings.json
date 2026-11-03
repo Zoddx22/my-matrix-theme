@@ -1,0 +1,27 @@
+{
+    // My Matrix companion settings. Paste these into your Cursor / VS Code
+    // settings.json (Ctrl+Shift+P > "Preferences: Open User Settings (JSON)").
+
+    // Theme
+    "workbench.colorTheme": "My Matrix",
+    "workbench.preferredDarkColorTheme": "My Matrix",
+
+    // Font (Cascadia Code/Mono ship with Windows Terminal; install them if missing)
+    "editor.fontFamily": "'Cascadia Code', Consolas, monospace",
+    "editor.fontLigatures": true,
+    "editor.fontSize": 15,
+    "editor.lineHeight": 22,
+    "terminal.integrated.fontFamily": "'Cascadia Mono', Consolas, monospace",
+    "terminal.integrated.fontSize": 15,
+
+    // Cursor: blinking green terminal block
+    "editor.cursorStyle": "block",
+    "editor.cursorBlinking": "phase",
+    "editor.cursorSmoothCaretAnimation": "on",
+
+    // Readability
+    "editor.bracketPairColorization.enabled": true,
+    "editor.guides.bracketPairs": "active",
+    "editor.stickyScroll.enabled": true,
+    "editor.semanticHighlighting.enabled": true
+}

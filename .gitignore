@@ -1,0 +1,9 @@
+# keep secrets and local files out of the repo
+.env
+.env.*
+*.pem
+*.key
+*.bak
+*.bak[0-9]
+settings.json
+!settings/cursor-settings.json
