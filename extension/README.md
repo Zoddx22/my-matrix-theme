@@ -5,3 +5,5 @@ then pick **My Matrix** in Preferences: Color Theme.
 
 Font and cursor settings (not part of a theme) are in `settings/cursor-settings.json` at the repo root:
 copy them into your user settings.json.
+
+Based on the Matrix theme by Ustym Ukhman (https://github.com/UstymUkhman/matrix-theme), MIT licensed.
