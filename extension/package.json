@@ -1,0 +1,23 @@
+{
+  "name": "my-matrix-theme",
+  "displayName": "My Matrix",
+  "description": "Personal Matrix (1999) digital rain theme: pitch black, phosphor greens, readable accents.",
+  "version": "1.0.0",
+  "publisher": "local",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "My Matrix",
+        "uiTheme": "vs-dark",
+        "path": "./themes/My-Matrix-color-theme.json"
+      }
+    ]
+  }
+}
